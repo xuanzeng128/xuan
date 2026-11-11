@@ -122,14 +122,8 @@ film-festival-2026/
 └── VIBE_CODING_PROMPT.md
 ```
 
-## 八、網站連結
 
-- GitHub Repository： https://github.com/xuanzeng128/xuan/tree/main/film-festival-2026
-- Vibe Coding 指令紀錄： https://github.com/xuanzeng128/xuan/blob/main/film-festival-2026/VIBE_CODING_PROMPT.md
-- InfinityFree：尚未確認已部署。
-- Vercel：尚未確認已部署。
-
-## 九、製作說明
+## 八、製作說明
 
 本網站為課程行銷影展專題介紹網站，內容依據小組期末企劃書整理。企劃中的青年訪談共 4 位，屬於初步質性資料，不代表整體青年市場比例；競爭者比較分數為企劃依設定指標所做的評估。
 
